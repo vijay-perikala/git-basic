@@ -22,7 +22,12 @@ I'm VijayManohar Perikala an Entrepreneur and Full Stack Web Developer. I spend 
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@vijayPerikala-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vijay_perikala)](https://twitter.com/vijay_perikala) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-@vijayperikala-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayperikala/) [![Mail Badge](https://img.shields.io/badge/-@vijayperikalai-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vijayperikalai/) [![Mail Badge](https://img.shields.io/badge/-vijay@perikala.com.my-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vijay@perikala.com.my)
+
+[![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) 
+[![Linkedin Badge](https://img.shields.io/badge/-@vijayperikala-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayperikala/) 
+[![Mail Badge](https://img.shields.io/badge/-@vijayperikalai-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vijayperikalai/) 
+[![Mail Badge](https://img.shields.io/badge/-vijay@perikala.com.my-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vijay@perikala.com.my)
+[![Twitter Badge](https://img.shields.io/badge/-@vijayPerikala-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vijay_perikala)](https://twitter.com/vijay_perikala) 
 
 <!-- TODO: Add last video link -->
 
