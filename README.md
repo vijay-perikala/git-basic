@@ -71,7 +71,7 @@ I'm VijayManohar Perikala an Entrepreneur and Full Stack Web Developer. I spend 
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :email: vijay@perikala.com.my
 
 
 #### Profile Visits 
