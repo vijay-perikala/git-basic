@@ -11,15 +11,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Content Writing  and Graphic design 
 - 💬 Ask me about Java,Spring,React,angular,Reactnative etc 
 - 📫 How to reach me: vijay@perikala.com.my 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: perikala.com.my , vijyperikala
 -->
 
 
 
 ## Hi I'm Vijay Perikala <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm VijayManohar Perikala an Entrepreneur and Full Stack Web Developer. I spend most of my time coding outstanding projects or recording tutorials.
+I'm VijayManohar Perikala an Entrepreneur and Full Stack Web Developer. I spend most of my time coding outstanding projects
 
 :mailbox: Reach me out!
 
@@ -27,12 +26,13 @@ I'm VijayManohar Perikala an Entrepreneur and Full Stack Web Developer. I spend 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: vijay@perikala.com.my
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 🔭 I’m currently working on Multi vendor ecommerce - Social Networking website 
+- 🌱 I’m currently learning on React native
+- 👯 I’m looking to collaborate on Open Source 
+- 🤔 I’m looking for help with Content Writing  and Graphic design 
+- 💬 Ask me about Java,Spring,React,angular,Reactnative etc 
+- 📫 How to reach me: vijay@perikala.com.my 
+- 😄 Pronouns: perikala.com.my , vijyperikala
 
 #### Top Technologies
 
