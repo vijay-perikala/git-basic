@@ -23,7 +23,7 @@ I'm VijayManohar Perikala an Entrepreneur and Full Stack Web Developer. I spend 
 :mailbox: Reach me out!
 
 
-[![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) 
+[![Mail Badge](https://img.shields.io/badge/-perikalaTech-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@perikalaTech) 
 [![Linkedin Badge](https://img.shields.io/badge/-@vijayperikala-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayperikala/) 
 [![Mail Badge](https://img.shields.io/badge/-@vijayperikalai-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vijayperikalai/) 
 [![Mail Badge](https://img.shields.io/badge/-vijay@perikala.com.my-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vijay@perikala.com.my)
